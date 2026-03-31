@@ -24,4 +24,7 @@ from Naukri.com (July-August 2023)
 - Excel (source data)
 
 ## Data Source
-https://www.kaggle.com/datasets/riteshmn/naukri-jobs-data-mar-2023
+Dataset: Naukri Jobs Data — Mar 2023
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/riteshmn/naukri-jobs-data-mar-2023
+
